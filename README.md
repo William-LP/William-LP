@@ -5,9 +5,9 @@ I enjoy designing and scaling reliable, secure, performant, and cost-effective c
 
 # Tech Stack
 ## Infra
-[![My Skills](https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,nginx,prometheus,grafana,ansible,bash,postgres,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,azure,terraform,docker,kubernetes,nginx,prometheus,grafana,ansible,bash,postgres,supabase,firebase)](https://skillicons.dev)
 ## Dev
-[![My Skills](https://skillicons.dev/icons?i=go,py,react,html,css,ts,git,figma,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,react,html,css,ts,git,figma,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 # PGP Key
 ```
