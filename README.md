@@ -1,13 +1,6 @@
 # About Me
-I'm **William**, a DevOps & Full Stack Developer from France 🇫🇷.
 
-I enjoy designing and scaling reliable, secure, performant, and cost-effective cloud-based solutions.
-
-# Tech Stack
-## Infra
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,linux,terraform,docker,azure,nginx,prometheus,grafana,ansible,bash,postgres,supabase,firebase)](https://skillicons.dev)
-## Dev
-[![My Skills](https://skillicons.dev/icons?i=go,py,react,html,css,ts,git,figma,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[https://william-lp.github.io/](https://william-lp.github.io/)
 
 # PGP Key
 ```
